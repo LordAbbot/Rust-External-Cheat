@@ -1,0 +1,6 @@
+﻿  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\Ivan\Desktop\HellCheat-main\ExternalDll\rustSDK\RustSDK.cpp(531): warning C4715: Item::set_addr: значение возвращается не при всех путях выполнения
+  All 1597 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  ExternalDll.vcxproj -> C:\Users\Ivan\Desktop\HellCheat-main\x64\Release\ExternalDll.dll
