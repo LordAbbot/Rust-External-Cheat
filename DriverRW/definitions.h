@@ -8,6 +8,9 @@
 
 //most of those structures comes from http://nirsoft.net/
 
+..
+	
+
 typedef unsigned long long QWORD;
 typedef unsigned short WORD;
 
