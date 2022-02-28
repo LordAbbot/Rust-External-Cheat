@@ -1,22 +1,20 @@
 ### Rust Externel Aimbot + Wallhack
+> C++ Open Source for Cheating Externel
 
-
-***
-
-#### C++ Open Source for Cheating Externel
-
-***
-
-
-### If Open Source cloned, some files are missing. for you to load here [Click Here](https://github.com/Speedyreal/Rust/releases/download/Rust/Source.rar)
-
-### FOR SUPPORT : [Discord.gg/Sarnax](https://discord.com/invite/sarnax) 
-> #### Discord : Sarnax#9999
+  <p align="center">
+    <a href="https://discord.gg/bzfWPSsDfR">
+        <img title="Sarnax discord" alt="SarnaxLii's discord" src="https://discord.c99.nl/widget/theme-4/582142955742298132.png"/>
+    </a>
+</p>
 
 ***
+
+#### 💬 For Support : [Discord.gg/Sarnax](https://discord.com/invite/sarnax) 
+> ##### Discord : Sarnax#9999
 
 **Discord Support & Sell**
 > - Craete Cheating Private // Not Detected & If Banned = Refund
 > - Contact Discord to order.
 
 ***
+
