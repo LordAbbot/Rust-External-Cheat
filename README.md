@@ -10,11 +10,11 @@
 
 
 
-#### 💬 Access Discord to help / support 24 Hr.  : [discord.gg/Sarnax](https://discord.com/invite/sarnax)
+#### :speech_balloon: JOIN DISCORD : [discord.gg/Sarnax](https://discord.com/invite/sarnax)
 > ##### Discord : Sarnax#9999
-> Contact to order Cheating Private that is the most secure.
-> - We give you privacy.
+> - DM for buy Cheating Private & Source ( UD + Update Lifetime )
 > - come in to be the same society as us
 
 ***
 
+![ดาวน์โหลด (1)](https://user-images.githubusercontent.com/94861415/157217933-9abbe57e-1a22-4770-a17c-ee04993c0137.png)
