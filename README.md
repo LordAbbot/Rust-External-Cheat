@@ -8,7 +8,7 @@
     </a>
 </p>
 
-#### 💬 Join Discord : [Discord.gg/Sarnax](https://discord.gg/sFUeS3E6Sz) (NEW SERVER)
+#### 💬 Join Discord & Support : [HEX SUPPORT](https://discord.gg/sFUeS3E6Sz) (New Server)
 > - DM for buy Cheating Private & Source
 > - come in to be the same society as us
 
