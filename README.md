@@ -9,6 +9,7 @@
 </p>
 
 ### 💬 Discord For Support : [HEX Community](https://discord.com/users/943374631644045363) (Add Friend For Invite Discord)
+> - Dm for Create Cheating Private ( Cannot detect because it is constantly being updated )
 > - We do not expect profit We hope you only get good things.
 
 ***
