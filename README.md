@@ -1,6 +1,6 @@
 ### Rust Externel Aimbot + Wallhack
 ```sh-session
-C++ OPEN SOURCE RUST EXTERNAL / Only 70% of all files, you have to create them yourself, another 30% if you don't want to create a discord contact.
+C++ OPEN SOURCE RUST EXTERNAL / HAVE DRIVER KERNEL
 ```
 ***
   <p align="center">
