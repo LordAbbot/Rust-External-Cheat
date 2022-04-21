@@ -15,10 +15,13 @@ C++ OPEN SOURCE RUST EXTERNAL / HAVE DRIVER KERNEL
     </a>
 </p>
 
+
+### 📌・  JOIN DISCORD / BUY : [HEX COMMUNITY](https://discord.gg/6ZdJwQ7Dmk) 
+
 * ` SELL CHEATING PRIVATE / SPOOFER / SOURCE CODE / ETC `
 * ` IF YOU WANT A SAFE CHEATING PRIVATE , THINK OF ME`
 * ` SAFE 100% IF BANNED = REFUND`
-* ` UPDATE LIFETIME & SUPPORT 24 HR `
+* ` UPDATE LIFETIME & SUPPORT 24HR `
 
 🤓・To order, please add a friend to request an invitation to the Discord server.
 
