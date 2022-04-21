@@ -10,7 +10,7 @@ C++ OPEN SOURCE RUST EXTERNAL / HAVE DRIVER KERNEL
 </p>
 
 <p align="center">
-    <a href="https://discord.gg/Ee4re4RsZe">
+    <a href="https://discord.gg/6ZdJwQ7Dmk">
         <img title="Sarnax discord" alt="SarnaxLii's discord" src="https://discordapp.com/api/guilds/928580076633739274/widget.png?style=banner2"/>
     </a>
 </p>
