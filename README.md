@@ -1,6 +1,6 @@
-### Rust Externel Aimbot + Wallhack
+### RUST EXTERNAL RELEASE
 ```sh-session
-C++ OPEN SOURCE RUST EXTERNAL / HAVE DRIVER KERNEL
+C++ OPEN SOURCE RUST EXTERNAL / HAVE DRIVER KERNEL / FEATURE: AIMBOT + ESP + NORECOIL
 ```
 ***
   <p align="center">
@@ -15,15 +15,15 @@ C++ OPEN SOURCE RUST EXTERNAL / HAVE DRIVER KERNEL
     </a>
 </p>
 
+### 📌・  JOIN DISCORD / SUPPORT : [HEX COMMUNITY](https://discord.gg/6ZdJwQ7Dmk) 
 
-### 📌・  JOIN DISCORD / BUY : [HEX COMMUNITY](https://discord.gg/6ZdJwQ7Dmk) 
-
-* ` SELL CHEATING PRIVATE / SPOOFER / SOURCE CODE / ETC `
+* `👋 SELL CHEATING PRIVATE / SPOOFER / SOURCE CODE / ETC `
+* ` UPDATE FREE LIFETIME & UD `
 * ` IF YOU WANT A SAFE CHEATING PRIVATE , THINK OF ME`
-* ` SAFE 100% IF BANNED = REFUND`
-* ` UPDATE LIFETIME & SUPPORT 24HR `
+* ` SAFE 100% IF BANNED = REFUND MONEY`
+* ` UPDATE LIFETIME & SUPPORT 24 HR `
 
-🤓・To order, please add a friend to request an invitation to the Discord server.
+🐵・**We** have a backup server base and many main servers and we are **LEGIT**
 
  ```sh-session
 If you can't join the server please add me to invite discord server : Sarnax#7522
