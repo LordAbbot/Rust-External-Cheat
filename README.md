@@ -15,7 +15,7 @@ C++ OPEN SOURCE RUST EXTERNAL / HAVE DRIVER KERNEL / FEATURE: AIMBOT + ESP + NOR
     </a>
 </p>
 
-### 📌・  JOIN DISCORD / BUY PRIVATE : [HEX COMMUNITY](https://discord.gg/S2NxQRvsvn)  
+### 📌・  JOIN DISCORD / BUY  : [HEX COMMUNITY](https://discord.gg/S2NxQRvsvn) 
 
 * `👋 SELL CHEATING PRIVATE / SPOOFER / SOURCE CODE / ETC `
 * ` UPDATE FREE LIFETIME & UD `
