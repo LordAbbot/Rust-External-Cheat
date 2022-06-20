@@ -5,7 +5,7 @@ C++ OPEN SOURCE RUST EXTERNAL / HAVE DRIVER KERNEL / FEATURE: AIMBOT + ESP + NOR
 ***
 
 
-### 🔔・ NEW DISCORD : [HEX SERVER](https://discord.gg/84QSkejhjA) 
+### 🔔・ NEW DISCORD : [LordCheat SERVER](https://discord.gg/84QSkejhjA) 
 
 
 * `👋 SELL CHEATING PRIVATE / SPOOFER / SOURCE CODE / ETC `
